@@ -1,0 +1,73 @@
+<divelog program='subsurface' version='3'>
+<settings>
+  <autogroup state='1' />
+</settings>
+<divesites>
+<site uuid='1c1eee29' name='El Deseo'>
+</site>
+<site uuid='6e451a49' name='Atlantic Princess'>
+</site>
+<site uuid='8e2b81f5' name='La Passion'>
+</site>
+</divesites>
+<dives>
+<trip date='2014-12-30' time='22:00:42' location='Open Water Certification'>
+<notes>Dominican Republic
+
+Dressel Divers Club International</notes>
+<dive number='1' tags='checkout' divesiteid='8e2b81f5' date='2014-12-30' time='22:00:42' duration='30:09 min'>
+  <divemaster>Heidi</divemaster>
+  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <divecomputer model='manually added dive' date='2017-10-16' time='22:54:42'>
+  <depth max='7.0 m' mean='6.658 m' />
+  <surface pressure='1.013 bar' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:24 min' depth='7.0 m' />
+  <sample time='28:36 min' depth='7.0 m' />
+  <sample time='30:09 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='2' divesiteid='6e451a49' date='2014-12-30' time='23:00:46' duration='30:00 min'>
+  <divemaster>Nicholas White</divemaster>
+  <buddy>Julia Chen, Eric Chen</buddy>
+  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <divecomputer model='manually added dive'>
+  <depth max='12.0 m' mean='10.34 m' />
+  <surface pressure='1.013 bar' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:24 min' depth='12.0 m' />
+  <sample time='24:36 min' depth='12.0 m' />
+  <sample time='26:00 min' depth='5.0 m' />
+  <sample time='29:00 min' depth='5.0 m' />
+  <sample time='30:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='3' divesiteid='1c1eee29' date='2014-12-31' time='23:00:28' duration='35:00 min'>
+  <buddy>Julia Chen, Eric Chen</buddy>
+  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <divecomputer model='manually added dive'>
+  <depth max='10.0 m' mean='9.0 m' />
+  <surface pressure='1.013 bar' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:00 min' depth='10.0 m' />
+  <sample time='30:00 min' depth='10.0 m' />
+  <sample time='31:00 min' depth='5.0 m' />
+  <sample time='34:00 min' depth='5.0 m' />
+  <sample time='35:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='4' tags='checkout' divesiteid='8e2b81f5' date='2014-12-31' time='23:00:30' duration='37:10 min'>
+  <buddy>Julia Chen, Eric Chen</buddy>
+  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <divecomputer model='manually added dive'>
+  <depth max='8.0 m' mean='7.638 m' />
+  <surface pressure='1.013 bar' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:36 min' depth='8.0 m' />
+  <sample time='35:24 min' depth='8.0 m' />
+  <sample time='37:10 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+</trip>
+</dives>
+</divelog>

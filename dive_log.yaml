@@ -1,0 +1,687 @@
+# SCVT SB2k17
+# subsurface app for diving
+
+- dive_no: 27
+  - date: 2017-03-09
+  - visibility: 15ft
+  - divemaster: Phillip Grambo
+  - dive_instructor: Phillip Grambo
+  - dive_buddy: Phillip Grambo, Eric Almon, Joey, Julia Chen
+  - location: Blue Hole
+  - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 70F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 101ft
+  - time: 20'
+  - 5m/15ft_stop: 3m
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: full-body
+  - conditions:
+    - salt
+    - deep
+  - start_air: 3000psi
+  - end_air: 1000psi
+  - time_in: NA
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments: SCVT SB2k17 Dive 11/11. My 10th Dive.
+
+- dive_no: 26
+  - date: 2017-03-09
+  - visibility: 30ft
+  - divemaster: NA
+  - dive_buddy: Julia Chen
+  - location: East Barracuda Shoals
+  - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 71F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 30ft
+  - time: 52'
+  - 5m/15ft_stop: 2m
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: full-body
+  - conditions:
+    - salt
+    - slight current
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: NA
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments:  SCVT SB2k17 Dive 10/11. My 9th Dive.
+  Buddy breathing with Julia when I hit 1000psi.
+
+- dive_no: 25
+  - time_in: 
+  - location: East Barracuda Shoals
+    - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 74F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 29ft
+  - time: 46'
+  - comments: SCVT SB2k17 8/11.
+
+- dive_no: 24
+  - time_in: 
+  - location: Washing Machine
+    - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 75F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 56ft
+  - time: 29'
+  - comments: SCVT SB2k17 7/11.
+
+- dive_no: 23
+  - date: 2017-03-08
+  - location: The Gulch
+  - time_in: 8:30
+    - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 73F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 27ft
+  - time: 104'
+  - comments: SCVT SB2k17 6/11.
+
+- dive_no: 22
+  - date: 2017-03-07
+  - visibility: 25ft
+  - divemaster: NA
+  - dive_buddy: Aaron Stamps
+  - location: Smuggler's Plane
+  - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 69F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 22ft
+  - time: 43' 
+  - 5m/15ft_stop: None
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: full-body
+  - conditions:
+    - salt
+    - current
+    - windy
+    - night
+  - start_air: 3000psi
+  - end_air: 1000psi
+  - time_in: NA
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments: SCVT SB2k7 Dive 5/11.
+  This was a plane wreck dive.
+  The dive definitely was not as bad as my first night dive in the river with Phillip and Chuck.
+  Mainly because there were so many people, you can see lights all over the place.
+  Also, the water was clear and shallow enough that you could see the bottom from the surface.
+  Finally, the boat, anchor, and back line all that glow sticks on it.
+  We did a few loops around the crash site.
+  Saw mini-stingrays, cow fish,
+
+- dive_no: 21
+  - date: 2017-03-07
+  - visibility: 15ft
+  - divemaster: NA
+  - dive_buddy: Aaron Stamps
+  - location: Lobster no Lobster West
+  - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 76F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 29ft
+  - time: 51'
+  - 5m/15ft_stop: 2'
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: full-body
+  - conditions:
+    - salt
+    - current
+    - windy
+    - sunny
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 16:00
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments: SCVT SB2k7 Dive 4.
+  One of the best dives ever.
+  Saw a giant stingray, also saw 2 different types of tiger fish.
+  We also saw a shark and some turtles.
+  Ended up not sharing air with Aaron, we just started to head back when I was at 1000psi.
+  I did end up having problems clearing my ear during the dive,
+  I ended up surfacing and then slowly resurfacing.
+  That's when I decided to stop video recording, but then that's when we spotted the turtle.
+  The GoPro SD card failed on me during the turtle shot, sadly.
+  Made it back to the boat while hovering around 15ft for the safety stop.
+
+- dive_no: 20
+  - date: 2017-03-07
+  - visibility: 15ft
+  - divemaster: NA
+  - dive_buddy: Aaron Stamps
+  - location: Closemon Reef
+  - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 74F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 20ft
+  - time: 64'
+  - 5m/15ft_stop: None
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: full-body
+  - conditions:
+    - salt
+    - current
+    - windy
+    - sunny
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 11:00
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments: SCVT SB2k7 Dive 3/11.
+  Had a long dive because we were very shallow.
+  Had some trouble with the current,
+  I kept drifting into Aaron at times.
+  Saw a puffer fish.
+  Air consumption was much better this time.
+  I ended at 1000psi and Aaron was at 1300psi.
+  Right before heading back, we popped up to the surface,
+  I must've took a wrong compass heading, or the current pushed us off course,
+  by the time we surfaced we ended up on the starboard side of the boat,
+  when I was aiming for the port.
+  Poor visibility also meant that we could not see the morning line.
+
+- dive_no: 19
+  - date: 2017-03-07
+  - visibility: 50ft
+  - divemaster: NA
+  - dive_buddy: Aaron Stamps
+  - location: Lobster no Lobster
+  - temperature:
+    - surface: NA
+    - air: NA
+    - bottom: 72F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 30ft
+  - time: 50'
+  - 5m/15ft_stop: 2'
+  - exposure_protection: wetsuit
+    - thickness: NA
+    - type: full-body
+  - conditions:
+    - salt
+    - current
+    - windy
+    - sunny
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 8:30
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments: SCVT SB2k7 Dive 2/11.
+  Dove with a Hollis computer.
+  All the weight problems from the previous dive were fixed.
+  Also descended to about 10ft and swam to the morning line and met up with Aaron.
+  He had some ear problems so we took it slow going down the morning line.
+  We saw the lobster!
+  I'm very aware of my first time doing videography,
+  so I was constantly making sure Aaron was nearby.
+  Even though both of us were using our GoPros, we were never really more than 10ft away from each other.
+  I was going though my air much faster than he was, pretty much I was at 1000psi when he hit 1700psi.
+  I eneded up buddy breathing off his octo, until he hit 1000psi before I went back to mine.
+  We did a small swim while buddy breathing,
+  and worked our way back when we both were at 1000psi.
+  Found the group on the morning line where we did our safety stop.
+  Saw a few of the sausages being deployed.
+  I finished the safety stop right above 500psi,
+  and we swam on the surface to our boat.
+
+- dive_no: 18
+  - date: 2017-03-06
+  - visibility: 50ft
+  - divemaster: NA
+  - dive_buddy: Julia Chen
+  - location: Basket Star Reef
+  - temperature:
+    - surface: 75F
+  - weight: 13lb
+    - belt: 10lb
+    - trim: 3lb
+  - depth: 31ft
+  - time: 25'
+  - 5m/15ft_stop: 2'
+  - exposure_protection: wetsuit
+    - thickness: NA
+    - type: full-body
+  - conditions:
+      - salt
+      - current
+      - windy
+      - sunny
+  - start_air: 3000psi
+  - end_air: 500psi
+  - dive_center/resort_stamp: scuba_club_vt.png, blackbeard.png
+  - comments: SCVT SB2k7 Dive 1/11.
+  Finally got off the docks!
+  It was a 6-7 hour long bumpy ride to the dive site.
+  I initially dove in with 9lbs on my BC.
+  The morning line was against the current,
+  By the time I made it to the morning line, I had used up a good chunk of my air,
+  and was breathing heavily.
+  I also found out I was not sinking, and had to add 4 more lbs.
+  The initial group of people I planed to dive with broke off so I only dove with Julia.
+  We checked our lights, all were working.
+  This was the first time I was leading a dive, so I was very cognizant on where the boat was.
+  I more or less, knew the general direction of the boat.
+  I did ask other divers during the dive to check my direction of the boat.
+  Also noticed the dive computer I was using was running low on batteries,
+  aske Phillip at the end for a new computer.
+
+# Well check out dive
+
+- dive_no: 17
+  - date: 2017-02-25
+  - visibility: NA
+  - divemaster: NA
+  - dive_buddy: NA
+  - location: VT Diving Well
+  - temperature:
+    - surface: NA
+  - weight: 9lb
+    - belt: 9lb
+    - trim: 0lb
+  - depth: 13ft
+  - time: 50'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 7mm
+    - type: Shortie
+  - conditions:
+      - controled
+  - start_air: 3000psi
+  - end_air: 500psi
+  - dive_center/resort_stamp: scuba_club_vt.png
+
+# Australia trip
+
+- dive_no: 16
+  - date: 2016-12-21
+  - visibility: 12m
+  - divemaster: Eve K
+  - dive_buddy: Julia, Eric
+  - location: Point X, Green Island
+  - temperature:
+    - bottom: 29C
+  - weight: 9lb
+    - belt: 9lb
+    - trim: 0lb
+  - depth: 15m
+  - time: 40'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 0.5mm
+    - type: lycra suit
+  - conditions:
+    - salt
+    - slight current
+    - sunny
+  - start_air: NA
+  - end_air: NA
+  - time_in: 11:00
+  - time_out: 11:50
+  - dive_center/resort_stamp: NA
+  - comments: Australia Family trip.
+
+- dive_no: 15
+  - date: 2016-12-21
+  - visibility: 8m
+  - divemaster: Eve K
+  - dive_buddy: Julia, Eric
+  - location: New York, Green Island
+  - temperature:
+    - bottom: 29C
+  - weight: 9lb
+    - belt: 9lb
+    - trim: 0lb
+  - depth: 8.5m
+  - time: 43'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 0.5mm
+    - type: lycra suit
+  - conditions:
+    - salt
+    - slight current
+    - sunny
+  - start_air: NA
+  - end_air: NA
+  - time_in: 11:00
+  - time_out: 11:50
+  - dive_center/resort_stamp: NA
+  - comments: Australia Family trip.
+
+- dive_no: 14
+  - date: 2016-12-20
+  - visibility: NA
+  - divemaster: Kenji, Cairns, Australia
+  - dive_buddy: Julia, Eric
+  - location: Flynn Reef (Traceys)
+  - temperature:
+    - bottom: 29C
+  - weight: 9lb
+    - belt: 9lb
+    - trim: 0lb
+  - depth: NA
+  - time: NA
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 0.5mm
+    - type: lycra suit
+  - conditions:
+    - salt
+  - start_air: NA
+  - end_air: NA
+  - time_in: NA
+  - dive_center/resort_stamp: NA
+  - comments: Australia Family trip.
+  Fish seen, Blue Spotted Stingray, Humphead monwrasse
+
+- dive_no: 13
+  - date: 2016-12-20
+  - visibility: NA
+  - divemaster: Kenji, Cairns, Australia
+  - dive_buddy: Julia, Eric
+  - location: Flynn Reef (Gardens)
+  - temperature:
+    - bottom: 29C
+  - weight: 9lb
+    - belt: 9lb
+    - trim: 0lb
+  - depth: NA
+  - time: NA
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 0.5mm
+    - type: lycra suit
+  - conditions:
+    - salt
+  - start_air: NA
+  - end_air: NA
+  - time_in: NA
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: Australia Family trip.
+  Fish seen, Pink anemone Fish, Red Black A/F, Barrier Fish A/F, Grey Reef Shark
+
+- dive_no: 12
+  - date: 2016-12-20
+  - visibility: NA
+  - divemaster: Kenji, Cairns, Australia
+  - dive_buddy: Julia, Eric
+  - location: Flynn Reef (Coral Gardens)
+  - temperature:
+    - bottom: 29C
+  - weight: 9lb
+    - belt: 9lb
+    - trim: 0lb
+  - depth: NA
+  - time: NA
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 0.5mm
+    - type: lycra suit
+  - conditions:
+    - salt
+  - start_air: NA
+  - end_air: NA
+  - time_in: NA
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: Australia Family trip.
+  Saw a green turtule!
+  Also saw Spanish Mackel; school of surgeon fish; green turtle; giant clam; red buss humphead mori wrasse
+
+# STI AOW: missing deep dive
+
+- dive_no: 11
+  - date: 2016-10-99
+  - visibility: 1ft
+  - location: Clator Lake
+  - temperature:
+    - surface: NA
+  - weight: 14lb
+    - belt: 10lb
+    - trim: 4lb
+  - depth: 53ft
+  - time: 42'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 7mm
+    - type: Farmer John with Overall Shortie and hood
+  - conditions:
+    - fresh
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 14:10
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: STI advanced open water - deep specialty with Chuck.  Failed due to low visibility
+
+- dive_no: 10
+  - date: 2016-10-99
+  - visibility: NA
+  - location: Clator Lake
+  - temperature:
+    - surface: NA
+  - weight: 14lb
+    - belt: 10lb
+    - trim: 4lb
+  - depth: 39ft
+  - time: 29'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 7mm
+    - type: Farmer John with Overall Shortie and hood
+  - conditions:
+    - fresh
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 14:10
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: STI advanced open water - navigation specialty with Chuck.
+  Did a perfect square in low visibility.
+  Did not complete the triangle
+
+- dive_no: 9
+  - date: 2016-10-99
+  - visibility: NA
+  - location: Clator Lake
+  - temperature:
+    - surface: NA
+  - weight: 16lb
+    - belt: 12lb
+    - trim: 4lb
+  - depth: 52ft
+  - time: 14'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 7mm
+    - type: Farmer John with Overall Shortie and hood
+  - conditions:
+    - fresh
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 13:44
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: STI advanced open water - deep specialty with Chuck.
+    The bottom was extremely silty.
+    The added belt weight from the night dive had my legs sinking and I hit the bottom.
+    Kicked up a blinding ball of silt.
+    We lost Philip, and had to resurface.
+
+- dive_no: 8
+  - date: 2016-10-99
+  - visibility: NA
+  - location: New River Bridge
+  - temperature:
+    - surface: 63F
+  - weight: 16lb
+    - belt: 12lb
+    - trim: 4lb
+  - depth: 41ft
+  - time: 40'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit, hood
+    - thickness: 7mm
+    - type: Farmer John with Overall Shortie and hood
+  - conditions:
+    - fresh
+    - current
+    - night
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 20:35
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: STI advanced open water - night specialty with Chuck
+
+- dive_no: 7
+  - date: 2016-10-99
+  - visibility: NA
+  - location: New River Bridge
+  - temperature:
+    - surface: 63F
+  - weight: 14lb
+    - belt: 10lb
+    - trim: 4lb
+  - depth: 41ft
+  - time: 38'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 7mm
+    - type: Farmer John with Overall Shortie
+  - conditions:
+    - fresh
+    - current
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 13:20
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: STI advanced open water - videography specialty with Chuck
+
+- dive_no: 6
+  - date: 2016-10-99
+  - visibility: NA
+  - location: New River Bridge
+  - temperature:
+    - surface: 63F
+  - weight: 14lb
+    - belt: 14lb
+    - trim: 0lb
+  - depth: 40ft
+  - time: 45'
+  - 5m/15ft_stop: NA
+  - exposure_protection: wetsuit
+    - thickness: 7mm
+    - type: Farmer John with Overall Shortie
+  - conditions:
+    - fresh
+    - current
+  - start_air: 3000psi
+  - end_air: 500psi
+  - time_in: 10:58
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: STI advanced open water - advanced bouyency specialty with Chuck
+
+- dive_no: 5
+  - date: 2016-10-99
+  - visibility: NA
+  - location: VT Diving Well
+  - depth: 13ft
+  - time: 50'
+  - 5m/15ft_stop: None
+  - exposure_protection: Swim Trunks
+    - thickness: NA
+    - type: NA
+  - conditions:
+    - controled 
+  - dive_center/resort_stamp: scuba_club_vt.png
+  - comments: practice dive in the diving well with the scuba club
+
+# PADI Open Water
+
+- dive_no: 4
+  - date: 2014-12-31
+  - visibility: NA
+  - location: El Deseo
+  - depth: 10m
+  - time: 35'
+  - 5m/15ft_stop: 3'
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: long
+  - conditions:
+    - salt water
+    - boat
+  - dive_center/resort_stamp: one_vecenzo.png
+  - comments: NA
+
+- dive_no: 3
+  - date: 2014-12-31
+  - visibility: NA
+  - location: La Passion
+  - depth: 8m
+  - time: 37'
+  - 5m/15ft_stop: 3'
+  - exposure_protection: wetsuit
+    - thickness: 3mm
+    - type: long
+  - conditions:
+    - salt water
+    - boat
+  - dive_center/resort_stamp: one_vecenzo.png
+  - comments: NA
+
+- dive_no: 2
+  - date: 2014-12-30
+  - visibility: NA
+  - location: Atlantic Princess
+  - depth: 12m
+  - time: 30'
+  - 5m/15ft_stop: 3'
+  - dive_center/resort_stamp: nicholas_white.png
+  - comments: NA
+
+- dive_no: 1
+  - date: 2014-12-30
+  - visibility: NA
+  - location: La Passion
+  - depth: 7m
+  - time: 30'
+  - dive_center/resort_stamp: dressel_divers_club.png
+  - comments: NA
